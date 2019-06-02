@@ -1,0 +1,10 @@
+Ingredients:
+-peanut butter
+-jelly
+-bread
+
+Directions
+
+1. toast two slices of bread
+2. put peanut butter on one slice of bread
+3. put jelly on other slice.
